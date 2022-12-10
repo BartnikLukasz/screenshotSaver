@@ -29,7 +29,7 @@ def get_latest_file(path):
     return Image.open(file)
 
 
-dirPath = 'C:\\Users\\Lukasz\\PycharmProjects\\screenshotSaver\\resources\\W9\\'
+dirPath = 'resources\\W9\\'
 posX1 = 460
 posY1 = 300
 posX2 = 1450
